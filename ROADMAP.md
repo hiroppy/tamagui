@@ -1,5 +1,9 @@
 # Roadmap
 
+## Release notes
+
+- https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes
+
 ## Advanced traversal
 
 Plan is just to better take static objects from anywhere and inline them, especially when combined with theme + media query.
